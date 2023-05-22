@@ -1,4 +1,6 @@
 {
   "name": "tests",
-  "homepage": "https://kreozot-ua.github.io"
+  "homepage": "https://kreozot-ua.github.io",
+  "version": "1.0.0",
+  "private": true,
 }
